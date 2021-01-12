@@ -1,3 +1,3 @@
 # demo-repository
 
-baby steps
+A small step towards progress
