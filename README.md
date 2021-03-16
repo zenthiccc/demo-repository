@@ -6,5 +6,5 @@ sample edit
 
 sample edit number 2
 
-##Local Development
+## Local Development
 1. Open index.html in your browser.
